@@ -10,7 +10,6 @@
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ManavVaidya84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
 ### 🧠 About Me
 
